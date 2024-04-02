@@ -6,7 +6,7 @@
 // This example creates a rectangle based on the viewport
 // on any 'zoom-changed' event.
 
-
+var tempControlUI;
 
 
 async function initMap() {
