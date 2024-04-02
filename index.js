@@ -99,6 +99,7 @@ async function showRectBounds(rect) {
 		+ '<br>East: ' + rect.bounds.getNorthEast().lng() 
 		+ '<br>South: ' + rect.bounds.getSouthWest().lat() 
 		+ '<br>West: ' + rect.bounds.getSouthWest().lng() 
+		+ '</div>'
     );
 	
 
