@@ -18,7 +18,6 @@ async function initMap() {
             lat: 0,
             lng: 0
         },
-        mapTypeId: "terrain",
         mapId: "f0133ed91e943e1c",
     });
 
